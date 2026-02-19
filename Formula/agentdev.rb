@@ -1,8 +1,8 @@
 class Agentdev < Formula
   desc "AgentDev distributed agent client"
   homepage "https://github.com/data-tamer/agentdev"
-  url "https://registry.npmjs.org/@datatamer.ai/agentdev/-/agentdev-1.0.6.tgz"
-  sha256 "ffc40a4a6a5b5b4b68ddd401a2f3aa07a3ca8b84ae470d65047840c844c380b2"
+  url "https://registry.npmjs.org/@datatamer.ai/agentdev/-/agentdev-1.0.13.tgz"
+  sha256 "cd2c69b71e81b1320fdb9cd4760ee587de43a1ffdc6c7cea2587af850b95f3e7"
   license "MIT"
 
   depends_on "node@22"
